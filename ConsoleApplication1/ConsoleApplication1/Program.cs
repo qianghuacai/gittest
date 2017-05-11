@@ -22,7 +22,7 @@ namespace ConsoleApplication1
 
             Console.WriteLine("UNB7: " + UNB7);
 
-            Console.WriteLine("\nAny key to continue..."); Console.ReadKey(true);
+            Console.WriteLine("\nAny key (2) ..."); Console.ReadKey(true);
         }
     }
 }
